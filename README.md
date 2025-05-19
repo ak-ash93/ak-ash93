@@ -16,16 +16,6 @@ Other Tools & Cloud:
 
 Agile | Scrum | ISTQB Certified
 
-🚀 My Projects
-
-🌟 GoMEIN – Real-Time Chat Application
-Built a real-time messaging app with WebSocket.io, Node.js, MongoDB, and Zustand — with a sleek React + TailwindCSS front-end.
-
-🌟 Exoape – Creative Agency Clone
-Pixel-perfect front-end clone powered by React, TailwindCSS, GSAP, and Framer Motion animations.
-
-🌟 Refocus – UI/UX Concept Website
-Interactive storytelling website with advanced GSAP animations and minimalistic HTML5 + CSS3 structure.
 
 🎯 About Me
 🔥 Passionate about full-stack development, front-end animation, and cloud computing.
